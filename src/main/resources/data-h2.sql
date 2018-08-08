@@ -1,0 +1,5 @@
+insert into subscriber(id,first_name, last_name, user_name, signed_up) values(1,'John', 'Smith', 'jsmith', CURRENT_DATE())
+insert into subscriber(id,first_name, last_name, user_name, signed_up) values(2,'Aaron', 'Smith', 'asmith', CURRENT_DATE())
+insert into subscriber(id,first_name, last_name, user_name, signed_up) values(3,'Steve', 'Smith', 'ssmith', CURRENT_DATE())
+insert into subscriber(id,first_name, last_name, user_name, signed_up) values(4,'Mark', 'Smith', 'msmith', CURRENT_DATE())
+insert into subscriber(id,first_name, last_name, user_name, signed_up) values(5,'Gerald', 'Smith', 'gsmith', CURRENT_DATE())
